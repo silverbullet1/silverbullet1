@@ -1,4 +1,3 @@
-### Hi there 👋
 ![background](https://i.imgur.com/s2PMwnu.jpg)
 
 ### ⚒ My Development Toolbelt
