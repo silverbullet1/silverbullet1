@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+![background](https://i.imgur.com/s2PMwnu.jpg)
 <!--
 **silverbullet1/silverbullet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![background](https://i.imgur.com/s2PMwnu.jpg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
